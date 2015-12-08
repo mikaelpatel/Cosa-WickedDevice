@@ -1,0 +1,4 @@
+#define COSA_CUSTOM_BOARD
+#define WICKEDDEVICE_WILDFIRE
+
+
