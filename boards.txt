@@ -28,7 +28,7 @@
 # Brown-out detection level 2.7 V. Serial program downloading enabled
 # Boot Reset vector enable (512 words, 0xfe00).
 
-wildfire.name=Cosa Wicked Device WireFire (ATmega1284P/Optiboot)
+wildfire.name=Cosa Wicked Device WildFire (ATmega1284P/Optiboot)
 wildfire.upload.tool=avrdude
 wildfire.upload.protocol=arduino
 wildfire.upload.maximum_size=130048
